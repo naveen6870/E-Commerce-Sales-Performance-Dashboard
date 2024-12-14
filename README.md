@@ -7,7 +7,11 @@ An interactive Power BI dashboard designed to analyze and visualize key sales an
 Analyzed ₹438K in total sales, ₹37K in profit, and 5,615 units sold across regions.
 ### Category Insights:
 Explored product performance across Clothing (63%), Electronics (20%), and Furniture (17%).
-### Top Profit Drivers: Identified high-profit sub-categories like Printers (₹8.6K) and Sarees (₹4.1K).
-### Payment Analysis: Evaluated payment modes, with Cash on Delivery leading at 44%.
-### Profit Trends: November stood out as the most profitable month (₹10.2K).
-### Dynamic Filters: Interactive filters for state-wise and quarter-wise analysis.
+### Top Profit Drivers:
+Identified high-profit sub-categories like Printers (₹8.6K) and Sarees (₹4.1K).
+### Payment Analysis:
+Evaluated payment modes, with Cash on Delivery leading at 44%.
+### Profit Trends:
+November stood out as the most profitable month (₹10.2K).
+### Dynamic Filters:
+Interactive filters for state-wise and quarter-wise analysis.
