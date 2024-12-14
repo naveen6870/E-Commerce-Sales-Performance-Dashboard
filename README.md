@@ -9,6 +9,5 @@ Top Profit Drivers: Identified high-profit sub-categories like Printers (₹8.6K
 Payment Analysis: Evaluated payment modes, with Cash on Delivery leading at 44%.
 Profit Trends: November stood out as the most profitable month (₹10.2K).
 Dynamic Filters: Interactive filters for state-wise and quarter-wise analysis.
-
 #📈 Outcome
 This project showcases my ability to create insightful dashboards that help businesses monitor performance and optimize strategies effectively.
